@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fthcnymc
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning machine learning
 - 📫 How to reach me fethicanyamac@gmail.com
 
 <!---
